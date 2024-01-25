@@ -11,4 +11,6 @@
 
 ### Recuerde que para validar la saluda debe ingresar a la ruta donde se ejecuta en webservice, en este caso seria {RUTA-QUE-BRINDA-EL-LOCAL}/top5-dense-countries
 
+http://127.0.0.1:5000/top5-dense-countries
+
 ### Si requiere ejecutar los test: py -m unittest test_app.py
